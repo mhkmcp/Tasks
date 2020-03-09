@@ -1,0 +1,11 @@
+Project 2:
+create an application with the following features:
+a. Create new user and show in the table 
+b. Delete a user
+c. Update a user information
+d. Show user information
+
+Instructions:
+-Use Local Storage for the above operation. 
+-You can use your own design. 
+-You have to use JavaScript or JS Framework (Vue.js preferred).

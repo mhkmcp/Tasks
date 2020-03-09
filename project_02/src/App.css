@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+.navBar {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+  font-size: large;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+.tableIndex {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 1fr 2fr 3fr;
+  width: 90%;
+  border-bottom: 1px solid grey;
+  margin: auto;
+  min-height: 40px;
+  align-items: center;
+}
+.userIndex {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 1fr 1.5fr;
+  width: 90%;
+  min-height: 40px;
+  align-items: center;
+}
+.userList {
+  width: 90vw;
+  display: flex;
+  margin: auto;
+  border-bottom: 1px solid grey;
+}
+.button-div {
+  display: flex;
+  width: 80%;
+}
+.button-delete {
+  background-color: tomato;
+}
+button {
+  margin: 5px;
+}
+li {
+  list-style-type: none;
+}
+input {
+  margin: 5px;
+}
+.userInfoTitle {
+  font-weight: bold;
+  min-width: 35vw;
+  font-size: 20px;
+}
+p {
+  font-weight: 600;
+  font-size: 15px;
+}
